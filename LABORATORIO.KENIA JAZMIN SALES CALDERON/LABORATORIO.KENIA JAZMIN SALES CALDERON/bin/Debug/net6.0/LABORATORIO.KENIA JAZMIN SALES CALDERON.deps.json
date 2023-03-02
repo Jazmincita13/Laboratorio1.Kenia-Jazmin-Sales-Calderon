@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LABORATORIO.KENIA JAZMIN SALES CALDERON/1.0.0": {
+        "runtime": {
+          "LABORATORIO.KENIA JAZMIN SALES CALDERON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LABORATORIO.KENIA JAZMIN SALES CALDERON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
